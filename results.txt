@@ -1,0 +1,26 @@
+sigmoid
+adadelta
+MSE Train:  0.049233235
+MSE Test:  0.04046173
+Hitrate: 49.41%
+grad desc
+MSE Train:  0.090486966
+MSE Test:  0.10966104
+Hitrate: 50.00%
+adam
+MSE Train:  0.0066285883
+MSE Test:  0.008100081
+Hitrate: 48.78%
+relu
+adadelta
+MSE Train:  0.01285096
+MSE Test:  0.013012319
+Hitrate: 51.96%
+grad
+MSE Train:  0.0684103
+MSE Test:  0.097318664
+Hitrate: 51.61%
+adam
+MSE Train:  0.009341125
+MSE Test:  0.011232391
+Hitrate: 51.79%
